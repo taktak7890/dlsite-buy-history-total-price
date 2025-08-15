@@ -1,0 +1,15 @@
+{
+  "name": "chrome_ad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "rd /s /q .\\dist",
+    "build": "tsc && copy .\\src\\manifest.json .\\dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
