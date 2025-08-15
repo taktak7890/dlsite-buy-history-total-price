@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://www.dlsite.com/maniax/mypage/userbuy/*"
+                "https://www.dlsite.com/*/mypage/userbuy/*"
             ],
             "js": [
                 "content.js"
