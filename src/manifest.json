@@ -1,8 +1,8 @@
 {
-    "name": "Sample",
+    "name": "DLSite buy history total price",
     "version": "1.0.0",
     "manifest_version": 3,
-    "description": "Sample Chrome Extension",
+    "description": "DLSiteの購入履歴ページで、購入金額の合計を表示する拡張機能",
     "content_scripts": [
         {
             "matches": [

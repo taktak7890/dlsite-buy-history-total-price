@@ -1,4 +1,4 @@
-# Chrome拡張機能「chrome_ad」
+# Chrome拡張機能「DLSite Buy History Total Price」
 
 ## 概要
 このプロジェクトは、DLsiteの購入履歴ページで動作するChrome拡張機能です。  

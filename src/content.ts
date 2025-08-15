@@ -1,4 +1,3 @@
-console.log("Content script loaded");
 function extractPriceFromTable(): number {
     // table取得
     const table = document.querySelector("#buy_history_this .work_list_main") as HTMLTableElement;
